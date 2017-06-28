@@ -3,7 +3,6 @@
 
 # BD2K OER Materials Blueprint
 
-Revised 04/12/2016
 
 ## Module Number: BDK06
 
@@ -31,7 +30,7 @@ At the completion of this component, the learner will be able to:
 
 Unit 1 Slides: BDK06-1.pptx
 
-Unit 1 Audio: BDK06-1.mp3
+Unit 1 Audio: BDK06-1.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 1 Resources: BDK06-1_resources.pdf
 
@@ -39,7 +38,7 @@ Unit 1 Resources: BDK06-1_resources.pdf
 
 Unit 2 Slides: BDK06-2.pptx
 
-Unit 2 Audio: BDK06-2.mp3
+Unit 2 Audio: BDK06-2.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 2 Resources: BDK06-2_resources.pdf
 
